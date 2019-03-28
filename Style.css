@@ -1,22 +1,5 @@
-div.center, h3{
-	text-align: center;
-}
-table{
-	border-collapse: collapse;
-	margin-left: auto;
-	margin-right: auto;
-}
-td, tr, th{
-	border: 3px solid black;
-	border-color: red;
+img{
+	display: block;
 	padding: 3px;
-}
-tr{
-	background-color: black;
-}
-th{
-	color: yellow;
-}
-td{
-	color: white;
+	width: 20%;
 }
